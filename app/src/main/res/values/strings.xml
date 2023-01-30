@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RandomJoke</string>
+    <string name="random_joke">  Random Joke  </string>
+    <string name="joke_list">  Joke List </string>
+    <string name="text_input">  Text input </string>
+    <string name="ok">OK</string>
+    <string name="networkError">Network Error !!!</string>
+    <string name="detailError">Unable to connect internet Please try again</string>
+    <string name="error">Error !!!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="search_string">Search String</string>
+    <string name="choose_category">Choose category</string>
+    <string name="christmas">Christmas</string>
+    <string name="spooky">Spooky</string>
+    <string name="pun">Pun</string>
+    <string name="dark">Dark</string>
+    <string name="misc">Misc</string>
+    <string name="programming">Programming</string>
+    <string name="choose_flag">Choose Flag</string>
+    <string name="nsfw">nsfw</string>
+    <string name="religious">religious</string>
+    <string name="political">Political</string>
+    <string name="racist">racist</string>
+    <string name="sexist">sexist</string>
+    <string name="explicit">explicit</string>
+    <string name="single">single</string>
+
+</resources>

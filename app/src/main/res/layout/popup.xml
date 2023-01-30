@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/teal_700"
+    android:padding="@dimen/twentyPx"
+    >
+    <TextView
+        android:id="@+id/joke"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/twentySP"
+        android:visibility="gone"
+        />
+    <TextView
+        android:id="@+id/jokeSetUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/twentySP"
+        />
+    <TextView
+        android:id="@+id/jokeDelivery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="@dimen/twenty"
+        android:textSize="@dimen/twentySP"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/twenty"
+        android:text="@string/ok"
+        android:textColor="@android:color/white"
+        android:background="@color/purple_500"
+        android:id="@+id/closePopupBtn"/>
+
+</LinearLayout>
